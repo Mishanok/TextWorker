@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.10
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextWorker", "TextWorker\TextWorker.csproj", "{46CAFA2D-730A-4DA7-BDB7-4EA028B01730}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextWorker.BL", "TextWorker.BL\TextWorker.BL.csproj", "{361EB574-0E74-46E3-831B-E7FA5814F4B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46CAFA2D-730A-4DA7-BDB7-4EA028B01730}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46CAFA2D-730A-4DA7-BDB7-4EA028B01730}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46CAFA2D-730A-4DA7-BDB7-4EA028B01730}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46CAFA2D-730A-4DA7-BDB7-4EA028B01730}.Release|Any CPU.Build.0 = Release|Any CPU
+		{361EB574-0E74-46E3-831B-E7FA5814F4B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{361EB574-0E74-46E3-831B-E7FA5814F4B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{361EB574-0E74-46E3-831B-E7FA5814F4B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{361EB574-0E74-46E3-831B-E7FA5814F4B6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {541CFE85-8591-44C2-8223-9311DBD7D046}
+	EndGlobalSection
+EndGlobal

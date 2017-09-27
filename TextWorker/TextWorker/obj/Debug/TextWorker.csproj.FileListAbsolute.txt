@@ -1,0 +1,14 @@
+C:\Users\user\Documents\C# проги\TextWorker\TextWorker\bin\Debug\TextWorker.exe.config
+C:\Users\user\Documents\C# проги\TextWorker\TextWorker\bin\Debug\TextWorker.exe
+C:\Users\user\Documents\C# проги\TextWorker\TextWorker\bin\Debug\TextWorker.pdb
+C:\Users\user\Documents\C# проги\TextWorker\TextWorker\obj\Debug\TextWorker.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\C# проги\TextWorker\TextWorker\obj\Debug\TextWorker.Properties.Resources.resources
+C:\Users\user\Documents\C# проги\TextWorker\TextWorker\obj\Debug\TextWorker.csproj.GenerateResource.Cache
+C:\Users\user\Documents\C# проги\TextWorker\TextWorker\obj\Debug\TextWorker.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\C# проги\TextWorker\TextWorker\obj\Debug\TextWorker.exe
+C:\Users\user\Documents\C# проги\TextWorker\TextWorker\obj\Debug\TextWorker.pdb
+C:\Users\user\Documents\C# проги\TextWorker\TextWorker\bin\Debug\TextWorker.BL.dll
+C:\Users\user\Documents\C# проги\TextWorker\TextWorker\bin\Debug\TextWorker.BL.pdb
+C:\Users\user\Documents\C# проги\TextWorker\TextWorker\obj\Debug\TextWorker.MainForm.resources
+C:\Users\user\Documents\C# проги\TextWorker\TextWorker\bin\Debug\FastColoredTextBox.dll
+C:\Users\user\Documents\C# проги\TextWorker\TextWorker\bin\Debug\FastColoredTextBox.xml

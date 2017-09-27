@@ -1,0 +1,6 @@
+C:\Users\user\Documents\C# проги\TextWorker\TextWorker.BL\bin\Debug\TextWorker.BL.dll
+C:\Users\user\Documents\C# проги\TextWorker\TextWorker.BL\bin\Debug\TextWorker.BL.pdb
+C:\Users\user\Documents\C# проги\TextWorker\TextWorker.BL\obj\Debug\TextWorker.BL.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\C# проги\TextWorker\TextWorker.BL\obj\Debug\TextWorker.BL.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\C# проги\TextWorker\TextWorker.BL\obj\Debug\TextWorker.BL.dll
+C:\Users\user\Documents\C# проги\TextWorker\TextWorker.BL\obj\Debug\TextWorker.BL.pdb
